@@ -1,5 +1,14 @@
 
 # Neural Style Transfer
+Inputs:
+
+![image](https://github.com/hosnahoseini/Neural_style_transfer/assets/75449318/0d0f581b-b71d-448b-a889-f4b4dc2dd92c)
+
+
+Result:
+
+![image](https://github.com/hosnahoseini/Neural_style_transfer/assets/75449318/7dd4b371-9a63-49d4-82fe-77e1ffad1491)
+
 ## Introduction
 Neural style transfer is an optimization technique that allows you to transfer the artistic style of one image to another image. This can be used to create a variety of artistic effects, such as turning a photograph into a painting or a sketch.
 
